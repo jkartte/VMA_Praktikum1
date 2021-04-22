@@ -1,0 +1,13 @@
+de/thkoeln/cvogt/android/activities/BuildConfig.java
+ de.thkoeln.cvogt.android.activities.BuildConfig
+de/thkoeln/cvogt/android/activities/MainActivity.java
+ de.thkoeln.cvogt.android.activities.MainActivity
+ de.thkoeln.cvogt.android.activities.SwitchButtonListener
+de/thkoeln/cvogt/android/activities/ThirdActivity.java
+ de.thkoeln.cvogt.android.activities.SwitchButtonListener3
+ de.thkoeln.cvogt.android.activities.SwitchButtonListener4
+ de.thkoeln.cvogt.android.activities.SwitchButtonListener5
+ de.thkoeln.cvogt.android.activities.ThirdActivity
+de/thkoeln/cvogt/android/activities/SecondActivity.java
+ de.thkoeln.cvogt.android.activities.SecondActivity
+ de.thkoeln.cvogt.android.activities.SwitchButtonListener2

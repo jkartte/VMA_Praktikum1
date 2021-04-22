@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Julian\\AndroidStudioProjects\\ActivitiesAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Julian\\AndroidStudioProjects\\ActivitiesAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,3,4,5,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,4,4,4,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,103,158,213,-1",
+                        "endColumns": "-1,-1,-1,-1,-1,54,54,54,-1",
+                        "endOffsets": "-1,-1,-1,-1,-1,153,208,263,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,103,150,193,236,279,334,389,444",
+                        "endColumns": "47,46,42,42,42,54,54,54,47",
+                        "endOffsets": "98,145,188,231,274,329,384,439,487"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Julian\\AndroidStudioProjects\\ActivitiesAndroid\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "492,580",
+                        "endLines": "13,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "575,647"
+                    }
+                }
+            ]
+        }
+    ]
+}
